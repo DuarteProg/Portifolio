@@ -25,7 +25,10 @@ import {
     threejs,
     java,
     resilience,
-    driven
+    driven,
+    aws,
+    jest,
+    postgres
   } from "../assets";
   
   export const navLinks = [
@@ -100,20 +103,29 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "postgres",
+      icon: postgres,
     },
     {
       name: "git",
       icon: git,
     },
-    {
-      name: "figma",
-      icon: figma,
-    },
+   
     {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "java",
+      icon: java,
+    },
+    {
+      name: "jest",
+      icon: jest,
+    },
+    {
+      name: "aws",
+      icon: aws,
     },
   ];
   

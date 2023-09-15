@@ -22,12 +22,16 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import java from "./tech/java.png"
 
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import resilience from "./company/resilience.webp"
 import driven from "./company/driven.jpeg"
+import aws from "./tech/aws.png"
+import jest from "./tech/jest.png"
+import postgres from "./tech/postgres.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -64,5 +68,8 @@ export {
   jobit,
   tripguide,
   resilience,
-  driven
+  driven, 
+  aws,
+  jest,
+  postgres
 };
