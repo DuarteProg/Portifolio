@@ -34,7 +34,7 @@ import aws from "./tech/aws.png"
 import jest from "./tech/jest.png"
 import postgres from "./tech/postgres.png"
 
-import carrent from "./carrent.png";
+import building from "./building.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -68,7 +68,7 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
+  building,
   jobit,
   tripguide,
   resilience,
