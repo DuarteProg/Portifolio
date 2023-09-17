@@ -38,6 +38,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import igor from "./people/igor.jpeg"
+
 export {
   java,
   logo,
@@ -73,5 +75,6 @@ export {
   driven, 
   aws,
   jest,
-  postgres
+  postgres,
+  igor
 };
