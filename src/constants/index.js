@@ -219,8 +219,8 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
-          color: "green-text-gradient",
+          name: "next.js",
+          color: "orange-text-gradient",
         },
         {
           name: "tailwind",
@@ -228,8 +228,8 @@ import {
         },
       ],
       image: building,
-      link_github: "https://github.com/",
-      link_vercel:"https://vercel.com/",
+      link_github: "https://github.com/DuarteProg/car-rent",
+      link_vercel:"https://car-rent-peach-psi.vercel.app/",
     },
     // {
     //   name: "Job IT",
